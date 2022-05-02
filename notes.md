@@ -1,11 +1,4 @@
-Fazer 
- - Perguntas corretas
- - Entender o problema, o que eu preciso
+Fluxos de aplicação
 
-
- Variaveis
-  - let (variavel)
-  - const (não é variavel)
-  - var
-
-  reatribuição de valor
+if/else (decidem qual caminho será tomado)
+não é possivel redeclarar uma variavel, para modificar seu valor você so inicia a variavel não redeclara com let var 
