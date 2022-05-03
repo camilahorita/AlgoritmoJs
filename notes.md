@@ -1,19 +1,6 @@
-Fluxos de aplicação
+Arrays
+Estrutura de repetição 
+for ( i=0; i < 10; i++) {}
 
-if/else (decidem qual caminho será tomado)
-não é possivel redeclarar uma variavel, para modificar seu valor você so inicia a variavel não redeclara com let var 
-
-> maior que
-> menor que
->= maior ou igual 
-<= menor ou igual
-== igual
-!= diferente
-
-.toFixed() > quantidade de numeros depois da virgula >> funcionalidades para aplicar algum passo a passo
-
-if é uma palavra reservada para definir um fluxo de aplicação
-
-Boas praticas
-Não repetir codigo
-
+Se eu crio a variavel fora, ela é enxergada dentro do escopo de bloco
+mas as variaveis criadas dentro do bloco não são vistas fora
